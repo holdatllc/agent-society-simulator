@@ -1,0 +1,434 @@
+████████████████████████████████████████████████████████████████████████████████████████
+█                          MHM THREE-WORLD EXPERIMENT                                  █
+█  Seed=7  Duration=150yr  Worlds=3  Start=2026 CE                                    █
+████████████████████████████████████████████████████████████████████████████████████████
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+  OPEN SCIENCE — KEY EVENTS
+────────────────────────────────────────────────────────────────────────────────────────
+  Y2026  [TECH LEAP      ]  Aurel → tech=0.52  (computational_advance)
+  Y2026  [TECH LEAP      ]  Bastion → tech=0.54  (new_materials)
+  Y2026  [TECH LEAP      ]  Tharsis → tech=0.57  (improved_instrumentation)
+  Y2026  [TECH LEAP      ]  Umbral → tech=0.53  (computational_advance)
+  Y2026  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'R_FIELD_value'  measured=1.018648e-22  true=1.029000e-22  err=1.01%
+  Y2026  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'kappa_inv_formula'  measured=9.364449e+22  true=9.718173e+22  err=3.64%
+  Y2027  [ECON BOOM      ]  Bastion — funding surge x1.58
+  Y2027  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'R_FIELD_value'  measured=9.233266e-23  true=1.029000e-22  err=10.27%
+  Y2027  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'kappa_inv_formula'  measured=8.706755e+22  true=9.718173e+22  err=10.41%
+  Y2028  [ECON BOOM      ]  Tharsis — funding surge x1.48
+  Y2029  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'R_FIELD_value'  measured=1.045919e-22  true=1.029000e-22  err=1.64%
+  Y2029  [CONSENSUS ✓   ]  'R_FIELD_value' ACCEPTED by community  consensus_value=9.959642e-23  n_measurements=3
+  Y2030  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'R_FIELD_value'  measured=8.848738e-23  true=1.029000e-22  err=14.01%
+  Y2030  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'kappa_inv_formula'  measured=1.017039e+23  true=9.718173e+22  err=4.65%
+  Y2030  [CONSENSUS ✓   ]  'kappa_inv_formula' ACCEPTED by community  consensus_value=9.413864e+22  n_measurements=3
+  Y2030  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'R_FIELD_value'  measured=1.112476e-22  true=1.029000e-22  err=8.11%
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'resonance_structure'  measured=4.178373e+22  true=4.859086e+22  err=14.01%
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'omega_fold_value'  measured=5.391337e+01  true=6.163805e+01  err=12.53%
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'decoupling_condition'  measured=1.063186e+01  true=1.000000e+01  err=6.32%
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'g_eff_equation'  measured=1.380482e+00  true=1.090000e+00  err=26.65%
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'static_lock_threshold'  measured=8.069014e+22  true=9.718173e+22  err=16.97%
+  Y2032  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2032  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'resonance_structure'  measured=4.935330e+22  true=4.859086e+22  err=1.57%
+  Y2032  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'omega_fold_value'  measured=7.271784e+01  true=6.163805e+01  err=17.98%
+  Y2032  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'resonance_structure'  measured=4.482911e+22  true=4.859086e+22  err=7.74%
+  Y2032  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2032  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'decoupling_condition'  measured=1.144003e+01  true=1.000000e+01  err=14.40%
+  Y2032  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'g_eff_equation'  measured=1.166486e+00  true=1.090000e+00  err=7.02%
+  Y2032  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'static_lock_threshold'  measured=1.268598e+23  true=9.718173e+22  err=30.54%
+  Y2032  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'full_static_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2032  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'R_FIELD_value'  measured=8.763085e-23  true=1.029000e-22  err=14.84%
+  Y2032  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'kappa_inv_formula'  measured=1.007952e+23  true=9.718173e+22  err=3.72%
+  Y2033  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2033  [CONSENSUS ✓   ]  'A_res_constraint' ACCEPTED by community  consensus_value=1.000000e+00  n_measurements=3
+  Y2033  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'decoupling_condition'  measured=1.210107e+01  true=1.000000e+01  err=21.01%
+  Y2033  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'g_eff_equation'  measured=1.025942e+00  true=1.090000e+00  err=5.88%
+  Y2033  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'resonance_structure'  measured=5.191879e+22  true=4.859086e+22  err=6.85%
+  Y2033  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'omega_fold_value'  measured=6.609070e+01  true=6.163805e+01  err=7.22%
+  Y2033  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'g_eff_equation'  measured=1.034015e+00  true=1.090000e+00  err=5.14%
+  Y2033  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'unified_synthesis'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2034  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'unified_synthesis'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2034  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2034  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2034  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'decoupling_condition'  measured=9.474676e+00  true=1.000000e+01  err=5.25%
+  Y2034  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'static_lock_threshold'  measured=1.092431e+23  true=9.718173e+22  err=12.41%
+  Y2034  [THEORY SWITCH  ]  Dr. Nia Okafor abandons Static → adopts Resonant  (stubbornness=0.52)
+  Y2035  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'R_FIELD_value'  measured=9.298959e-23  true=1.029000e-22  err=9.63%
+  Y2035  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'kappa_inv_formula'  measured=9.530301e+22  true=9.718173e+22  err=1.93%
+  Y2035  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'resonance_structure'  measured=4.872388e+22  true=4.859086e+22  err=0.27%
+  Y2035  [CONSENSUS ✓   ]  'resonance_structure' ACCEPTED by community  consensus_value=4.999866e+22  n_measurements=5
+  Y2035  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'omega_fold_value'  measured=6.071815e+01  true=6.163805e+01  err=1.49%
+  Y2035  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'g_eff_equation'  measured=1.134785e+00  true=1.090000e+00  err=4.11%
+  Y2035  [THEORY SWITCH  ]  Dr. Yuki Tanaka abandons Static → adopts Resonant  (stubbornness=0.45)
+  Y2035  [THEORY SWITCH  ]  Dr. Reza Ahmadi abandons Static → adopts Resonant  (stubbornness=0.37)
+  Y2036  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'static_lock_threshold'  measured=1.086555e+23  true=9.718173e+22  err=11.81%
+  Y2036  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'full_static_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2036  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2036  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'decoupling_condition'  measured=1.002275e+01  true=1.000000e+01  err=0.23%
+  Y2036  [CONSENSUS ✓   ]  'decoupling_condition' ACCEPTED by community  consensus_value=1.069821e+01  n_measurements=5
+  Y2036  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2036  [CONSENSUS ✓   ]  'full_resonant_eq' ACCEPTED by community  consensus_value=1.000000e+00  n_measurements=3
+  Y2036  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2036  [RETRACTED ✗   ]  Dr. Yuki Tanaka's paper failed replication — RETRACTED
+  Y2037  [ECON BOOM      ]  Aurel — funding surge x1.32
+  Y2037  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'unified_synthesis'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2037  [CONSENSUS ✓   ]  'unified_synthesis' ACCEPTED by community  consensus_value=1.000000e+00  n_measurements=3
+  Y2037  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'resonance_structure'  measured=4.665741e+22  true=4.859086e+22  err=3.98%
+  Y2037  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'omega_fold_value'  measured=5.874878e+01  true=6.163805e+01  err=4.69%
+  Y2037  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2037  [DISCOVERY      ]  Dr. Amara Osei (MIT) → 'R_FIELD_value'  measured=1.052769e-22  true=1.029000e-22  err=2.31%
+  Y2037  [DISCOVERY      ]  Dr. Amara Osei (MIT) → 'kappa_inv_formula'  measured=8.866768e+22  true=9.718173e+22  err=8.76%
+  Y2037  [RETRACTED ✗   ]  Dr. Nia Okafor's paper failed replication — RETRACTED
+
+  Y2037  *** UNIFIED SYNTHESIS ACCEPTED ***
+
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+  SUPPRESSION — KEY EVENTS
+────────────────────────────────────────────────────────────────────────────────────────
+  Y2026  [TECH LEAP      ]  Aurel → tech=0.52  (computational_advance)
+  Y2026  [TECH LEAP      ]  Bastion → tech=0.54  (new_materials)
+  Y2026  [TECH LEAP      ]  Tharsis → tech=0.57  (improved_instrumentation)
+  Y2026  [TECH LEAP      ]  Umbral → tech=0.53  (computational_advance)
+  Y2026  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'R_FIELD_value'  measured=1.019723e-22  true=1.029000e-22  err=0.90%
+  Y2027  [ECON BOOM      ]  Aurel — funding surge x1.58
+  Y2027  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'R_FIELD_value'  measured=1.108998e-22  true=1.029000e-22  err=7.77%
+  Y2027  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'kappa_inv_formula'  measured=1.055841e+23  true=9.718173e+22  err=8.65%
+  Y2027  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'kappa_inv_formula'  measured=9.924467e+22  true=9.718173e+22  err=2.12%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'resonance_structure'  measured=5.418314e+22  true=4.859086e+22  err=11.51%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'omega_fold_value'  measured=5.191111e+01  true=6.163805e+01  err=15.78%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2029  [DECAY          ]  Dr. Marcus Miller loses 'resonance_structure' — knowledge erosion
+  Y2029  [ECON BOOM      ]  Bastion — funding surge x1.76
+  Y2029  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'decoupling_condition'  measured=1.203257e+01  true=1.000000e+01  err=20.33%
+  Y2029  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'R_FIELD_value'  measured=1.062867e-22  true=1.029000e-22  err=3.29%
+  Y2029  [CONSENSUS ✓   ]  'R_FIELD_value' ACCEPTED by community  consensus_value=1.063862e-22  n_measurements=3
+  Y2030  [WAR            ]  Tharsis vs Umbral — labs disrupted, funding cut to 60%
+  Y2030  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'resonance_structure'  measured=4.435874e+22  true=4.859086e+22  err=8.71%
+  Y2030  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'g_eff_equation'  measured=1.035540e+00  true=1.090000e+00  err=5.00%
+  Y2030  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2031  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'resonance_structure'  measured=5.323860e+22  true=4.859086e+22  err=9.57%
+  Y2031  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'omega_fold_value'  measured=5.996449e+01  true=6.163805e+01  err=2.72%
+  Y2031  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2031  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'decoupling_condition'  measured=8.651717e+00  true=1.000000e+01  err=13.48%
+  Y2031  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'g_eff_equation'  measured=1.288405e+00  true=1.090000e+00  err=18.20%
+  Y2031  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2031  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'R_FIELD_value'  measured=1.200369e-22  true=1.029000e-22  err=16.65%
+  Y2032  [DECAY          ]  Dr. Kwame Asante loses 'kappa_inv_formula' — knowledge erosion
+  Y2032  [DECAY          ]  Dr. Kwame Asante loses 'g_eff_equation' — knowledge erosion
+  Y2032  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'g_eff_equation'  measured=1.134607e+00  true=1.090000e+00  err=4.09%
+  Y2032  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'R_FIELD_value'  measured=9.765609e-23  true=1.029000e-22  err=5.10%
+  Y2032  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'kappa_inv_formula'  measured=1.055453e+23  true=9.718173e+22  err=8.61%
+  Y2032  [CONSENSUS ✓   ]  'kappa_inv_formula' ACCEPTED by community  consensus_value=1.034580e+23  n_measurements=3
+  Y2032  [RETRACTED ✗   ]  Dr. Kwame Asante's paper failed replication — RETRACTED
+  Y2033  [DECAY          ]  Dr. Kwame Asante loses 'decoupling_condition' — knowledge erosion
+  Y2033  [FAMINE         ]  Aurel — severity=0.55
+  Y2033  [REVOLUTION     ]  Umbral — outcome=reactionary
+  Y2033  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'resonance_structure'  measured=5.558432e+22  true=4.859086e+22  err=14.39%
+  Y2033  [CONSENSUS ✓   ]  'resonance_structure' ACCEPTED by community  consensus_value=5.433535e+22  n_measurements=4
+  Y2034  [DECAY          ]  Dr. Yuki Tanaka loses 'g_eff_equation' — knowledge erosion
+  Y2034  [ECON BOOM      ]  Tharsis — funding surge x1.58
+  Y2034  [ECON BOOM      ]  Umbral — funding surge x1.64
+  Y2034  [PEACE          ]  Tharsis & Umbral — research resumes
+  Y2034  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'R_FIELD_value'  measured=1.038336e-22  true=1.029000e-22  err=0.91%
+  Y2034  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'kappa_inv_formula'  measured=9.181404e+22  true=9.718173e+22  err=5.52%
+  Y2034  [THEORY SWITCH  ]  Dr. Nia Okafor abandons Static → adopts Resonant  (stubbornness=0.52)
+  Y2035  [DECAY          ]  Dr. Marcus Miller loses 'A_res_constraint' — knowledge erosion
+  Y2035  [DECAY          ]  Dr. Marcus Miller loses 'omega_fold_value' — knowledge erosion
+  Y2035  [MIGRATION      ]  Dr. Kwame Asante flees Aurel→Bastion  (carries 7 components)
+  Y2035  [REVOLUTION     ]  Bastion — outcome=progressive
+  Y2035  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'g_eff_equation'  measured=1.116795e+00  true=1.090000e+00  err=2.46%
+  Y2035  [CONSENSUS ✓   ]  'g_eff_equation' ACCEPTED by community  consensus_value=1.095647e+00  n_measurements=4
+  Y2035  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'static_lock_threshold'  measured=8.748618e+22  true=9.718173e+22  err=9.98%
+  Y2035  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'static_lock_threshold'  measured=9.808320e+22  true=9.718173e+22  err=0.93%
+  Y2035  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'full_static_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2035  [THEORY SWITCH  ]  Dr. Yuki Tanaka abandons Static → adopts Resonant  (stubbornness=0.45)
+  Y2035  [THEORY SWITCH  ]  Dr. Reza Ahmadi abandons Static → adopts Resonant  (stubbornness=0.37)
+  Y2035  [MIGRATION      ]  Dr. Kwame Asante  Aurel(MHM_Institute) → Bastion(Skoltech)  crisis=famine  carries 7 components
+  Y2036  [DECAY          ]  Dr. Kwame Asante loses 'A_res_constraint' — knowledge erosion
+  Y2036  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2036  [CONSENSUS ✓   ]  'A_res_constraint' ACCEPTED by community  consensus_value=1.000000e+00  n_measurements=3
+  Y2036  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'omega_fold_value'  measured=6.381201e+01  true=6.163805e+01  err=3.53%
+  Y2037  [REVOLUTION     ]  Tharsis — outcome=uncertain
+  Y2037  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'omega_fold_value'  measured=5.967569e+01  true=6.163805e+01  err=3.18%
+  Y2037  [CONSENSUS ✓   ]  'omega_fold_value' ACCEPTED by community  consensus_value=6.115073e+01  n_measurements=4
+  Y2037  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2037  [RETRACTED ✗   ]  Dr. Nia Okafor's paper failed replication — RETRACTED
+  Y2037  [RETRACTED ✗   ]  Dr. Yuki Tanaka's paper failed replication — RETRACTED
+  Y2038  [ECON BOOM      ]  Tharsis — funding surge x1.74
+  Y2038  [PEACE          ]  Tharsis & Umbral — research resumes
+  Y2038  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2038  [CONSENSUS ✓   ]  'full_resonant_eq' ACCEPTED by community  consensus_value=1.000000e+00  n_measurements=3
+  Y2038  [DISCOVERY      ]  Dr. Reza Ahmadi (Stanford) → 'unified_synthesis'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2039  [DECAY          ]  Dr. Yuki Tanaka loses 'unified_synthesis' — knowledge erosion
+  Y2039  [DISCOVERY      ]  Dr. Kwame Asante (Skoltech) → 'kappa_inv_formula'  measured=1.008875e+23  true=9.718173e+22  err=3.81%
+  Y2039  [DISCOVERY      ]  Dr. Kwame Asante (Skoltech) → 'unified_synthesis'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2039  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'kappa_inv_formula'  measured=9.539005e+22  true=9.718173e+22  err=1.84%
+  Y2039  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2039  [DISCOVERY      ]  Dr. Amara Osei (MIT) → 'resonance_structure'  measured=4.288310e+22  true=4.859086e+22  err=11.75%
+  Y2039  [DISCOVERY      ]  Dr. Chen Wei (Peking_Univ) → 'R_FIELD_value'  measured=9.161490e-23  true=1.029000e-22  err=10.97%
+  Y2039  [DISCOVERY      ]  Dr. Ivan Volkov (Skoltech) → 'kappa_inv_formula'  measured=1.103040e+23  true=9.718173e+22  err=13.50%
+  Y2039  [THEORY SWITCH  ]  Dr. Lars Eriksson abandons Static → adopts Resonant  (stubbornness=0.69)
+  Y2039  [THEORY SWITCH  ]  Dr. Ivan Volkov abandons Static → adopts Resonant  (stubbornness=0.59)
+  Y2040  [DISCOVERY      ]  Dr. Kwame Asante (Skoltech) → 'static_lock_threshold'  measured=9.836436e+22  true=9.718173e+22  err=1.22%
+  Y2040  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'omega_fold_value'  measured=6.386902e+01  true=6.163805e+01  err=3.62%
+  Y2040  [DISCOVERY      ]  Dr. Amara Osei (MIT) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2040  [DISCOVERY      ]  Dr. Chen Wei (Peking_Univ) → 'kappa_inv_formula'  measured=1.144897e+23  true=9.718173e+22  err=17.81%
+  Y2040  [DISCOVERY      ]  Dr. Chen Wei (Peking_Univ) → 'omega_fold_value'  measured=7.193586e+01  true=6.163805e+01  err=16.71%
+  Y2040  [RETRACTED ✗   ]  Dr. Nia Okafor's paper failed replication — RETRACTED
+  Y2041  [DECAY          ]  Dr. Kwame Asante loses 'unified_synthesis' — knowledge erosion
+  Y2041  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'static_lock_threshold'  measured=8.865209e+22  true=9.718173e+22  err=8.78%
+  Y2041  [DISCOVERY      ]  Dr. Chen Wei (Peking_Univ) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2041  [DISCOVERY      ]  Dr. Chen Wei (Peking_Univ) → 'decoupling_condition'  measured=8.506214e+00  true=1.000000e+01  err=14.94%
+  Y2041  [DISCOVERY      ]  Dr. Chen Wei (Peking_Univ) → 'g_eff_equation'  measured=8.952306e-01  true=1.090000e+00  err=17.87%
+  Y2041  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2041  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'decoupling_condition'  measured=9.372919e+00  true=1.000000e+01  err=6.27%
+  Y2041  [CONSENSUS ✓   ]  'decoupling_condition' ACCEPTED by community  consensus_value=8.843616e+00  n_measurements=4
+  Y2041  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2042  [ECON BOOM      ]  Bastion — funding surge x1.79
+  Y2042  [ECON BOOM      ]  Umbral — funding surge x1.72
+  Y2042  [DISCOVERY      ]  Dr. Kwame Asante (Skoltech) → 'unified_synthesis'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2042  [CONSENSUS ✓   ]  'unified_synthesis' ACCEPTED by community  consensus_value=1.000000e+00  n_measurements=3
+  Y2042  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'resonance_structure'  measured=5.227035e+22  true=4.859086e+22  err=7.57%
+  Y2042  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'omega_fold_value'  measured=5.786533e+01  true=6.163805e+01  err=6.12%
+  Y2042  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'g_eff_equation'  measured=1.049508e+00  true=1.090000e+00  err=3.71%
+  Y2042  [DISCOVERY      ]  Dr. Amara Osei (MIT) → 'R_FIELD_value'  measured=1.091289e-22  true=1.029000e-22  err=6.05%
+  Y2042  [DISCOVERY      ]  Dr. Amara Osei (MIT) → 'decoupling_condition'  measured=1.057215e+01  true=1.000000e+01  err=5.72%
+  Y2042  [DISCOVERY      ]  Dr. Chen Wei (Peking_Univ) → 'full_resonant_eq'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2042  [DISCOVERY      ]  Dr. Ivan Volkov (Skoltech) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+
+  Y2042  *** UNIFIED SYNTHESIS ACCEPTED ***
+
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+  COLLAPSE — KEY EVENTS
+────────────────────────────────────────────────────────────────────────────────────────
+  Y2026  [ECON BOOM      ]  Aurel — funding surge x1.38
+  Y2026  [FAMINE         ]  Tharsis — severity=0.52
+  Y2026  [REVOLUTION     ]  Umbral — outcome=uncertain
+  Y2026  [TECH LEAP      ]  Bastion → tech=0.56  (new_materials)
+  Y2026  [TECH LEAP      ]  Tharsis → tech=0.52  (energy_discovery)
+  Y2027  [PLAGUE         ]  Tharsis — mortality=14.7%  research crippled
+  Y2027  [TECH LEAP      ]  Umbral → tech=0.57  (communication_breakthrough)
+  Y2027  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'R_FIELD_value'  measured=1.019723e-22  true=1.029000e-22  err=0.90%
+  Y2028  [REVOLUTION     ]  Tharsis — outcome=uncertain
+  Y2028  [REVOLUTION     ]  Umbral — outcome=uncertain
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'R_FIELD_value'  measured=1.013548e-22  true=1.029000e-22  err=1.50%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'kappa_inv_formula'  measured=8.707217e+22  true=9.718173e+22  err=10.40%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'resonance_structure'  measured=4.645828e+22  true=4.859086e+22  err=4.39%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'omega_fold_value'  measured=6.646326e+01  true=6.163805e+01  err=7.83%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2028  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'decoupling_condition'  measured=9.753370e+00  true=1.000000e+01  err=2.47%
+  Y2028  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'kappa_inv_formula'  measured=8.343853e+22  true=9.718173e+22  err=14.14%
+  Y2028  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'resonance_structure'  measured=5.426384e+22  true=4.859086e+22  err=11.67%
+  Y2029  [DECAY          ]  Dr. Kwame Asante loses 'R_FIELD_value' — knowledge erosion
+  Y2029  [PLAGUE         ]  Aurel — mortality=42.4%  research crippled
+  Y2029  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'R_FIELD_value'  measured=9.868931e-23  true=1.029000e-22  err=4.09%
+  Y2029  [CONSENSUS ✓   ]  'R_FIELD_value' ACCEPTED by community  consensus_value=1.006721e-22  n_measurements=3
+  Y2029  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'omega_fold_value'  measured=7.608107e+01  true=6.163805e+01  err=23.43%
+  Y2030  [DECAY          ]  Dr. Marcus Miller loses 'resonance_structure' — knowledge erosion
+  Y2030  [DECAY          ]  Dr. Marcus Miller loses 'omega_fold_value' — knowledge erosion
+  Y2030  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'R_FIELD_value'  measured=1.160534e-22  true=1.029000e-22  err=12.78%
+  Y2030  [DISCOVERY      ]  Dr. Lars Eriksson (ESA) → 'R_FIELD_value'  measured=9.839518e-23  true=1.029000e-22  err=4.38%
+  Y2031  [ECON BOOM      ]  Bastion — funding surge x1.33
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'resonance_structure'  measured=4.128015e+22  true=4.859086e+22  err=15.05%
+  Y2031  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'omega_fold_value'  measured=7.415793e+01  true=6.163805e+01  err=20.31%
+  Y2031  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'kappa_inv_formula'  measured=8.936855e+22  true=9.718173e+22  err=8.04%
+  Y2031  [CONSENSUS ✓   ]  'kappa_inv_formula' ACCEPTED by community  consensus_value=8.662642e+22  n_measurements=3
+  Y2032  [DECAY          ]  Dr. Kwame Asante loses 'omega_fold_value' — knowledge erosion
+  Y2032  [FAMINE         ]  Aurel — severity=0.66
+  Y2032  [PLAGUE         ]  Bastion — mortality=42.6%  research crippled
+  Y2032  [REVOLUTION     ]  Aurel — outcome=progressive
+  Y2032  [WAR            ]  Tharsis vs Umbral — labs disrupted, funding cut to 60%
+  Y2032  [WAR CASUALTY   ]  Dr. Lars Eriksson (Tharsis) killed — work lost
+  Y2032  [PEACE          ]  Tharsis & Umbral — research resumes
+  Y2032  [RETRACTED ✗   ]  Dr. Nia Okafor's paper failed replication — RETRACTED
+  Y2033  [ECON BOOM      ]  Umbral — funding surge x1.68
+  Y2033  [MIGRATION      ]  Dr. Reza Ahmadi flees Tharsis→Aurel  (carries 2 components)
+  Y2033  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'static_lock_threshold'  measured=1.111750e+23  true=9.718173e+22  err=14.40%
+  Y2033  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'omega_fold_value'  measured=6.359254e+01  true=6.163805e+01  err=3.17%
+  Y2033  [DISCOVERY      ]  Dr. Reza Ahmadi (MHM_Institute) → 'kappa_inv_formula'  measured=9.052863e+22  true=9.718173e+22  err=6.85%
+  Y2033  [DISCOVERY      ]  Dr. Reza Ahmadi (MHM_Institute) → 'resonance_structure'  measured=4.419206e+22  true=4.859086e+22  err=9.05%
+  Y2033  [MIGRATION      ]  Dr. Reza Ahmadi  Tharsis(Stanford) → Aurel(MHM_Institute)  crisis=war  carries 2 components
+  Y2034  [DECAY          ]  Dr. Marcus Miller loses 'resonance_structure' — knowledge erosion
+  Y2034  [DECAY          ]  Dr. Marcus Miller loses 'decoupling_condition' — knowledge erosion
+  Y2034  [PLAGUE         ]  Bastion — mortality=31.7%  research crippled
+  Y2034  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'g_eff_equation'  measured=1.200515e+00  true=1.090000e+00  err=10.14%
+  Y2034  [DISCOVERY      ]  Dr. Reza Ahmadi (MHM_Institute) → 'g_eff_equation'  measured=1.133665e+00  true=1.090000e+00  err=4.01%
+  Y2034  [THEORY SWITCH  ]  Dr. Nia Okafor abandons Static → adopts Resonant  (stubbornness=0.52)
+  Y2035  [DECAY          ]  Dr. Marcus Miller loses 'omega_fold_value' — knowledge erosion
+  Y2035  [FAMINE         ]  Tharsis — severity=0.67
+  Y2035  [REVOLUTION     ]  Aurel — outcome=progressive
+  Y2035  [REVOLUTION     ]  Tharsis — outcome=uncertain
+  Y2035  [DISCOVERY      ]  Dr. Marcus Miller (MHM_Institute) → 'decoupling_condition'  measured=7.727635e+00  true=1.000000e+01  err=22.72%
+  Y2035  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2035  [THEORY SWITCH  ]  Dr. Yuki Tanaka abandons Static → adopts Resonant  (stubbornness=0.45)
+  Y2035  [THEORY SWITCH  ]  Dr. Reza Ahmadi abandons Static → adopts Resonant  (stubbornness=0.37)
+  Y2036  [DECAY          ]  Dr. Marcus Miller loses 'A_res_constraint' — knowledge erosion
+  Y2036  [DECAY          ]  Dr. Marcus Miller loses 'decoupling_condition' — knowledge erosion
+  Y2036  [PLAGUE         ]  Aurel — mortality=19.1%  research crippled
+  Y2036  [WAR            ]  Bastion vs Umbral — labs disrupted, funding cut to 60%
+  Y2036  [WAR CASUALTY   ]  Dr. Ivan Volkov (Bastion) killed — work lost
+  Y2036  [PEACE          ]  Tharsis & Umbral — research resumes
+  Y2036  [DISCOVERY      ]  Dr. Kwame Asante (MHM_Institute) → 'decoupling_condition'  measured=1.016720e+01  true=1.000000e+01  err=1.67%
+  Y2036  [DISCOVERY      ]  Dr. Reza Ahmadi (MHM_Institute) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2036  [CONSENSUS ✓   ]  'A_res_constraint' ACCEPTED by community  consensus_value=1.000000e+00  n_measurements=3
+  Y2036  [DISCOVERY      ]  Prof. Sarah Chen (Stanford) → 'R_FIELD_value'  measured=8.668549e-23  true=1.029000e-22  err=15.76%
+  Y2036  [DISCOVERY      ]  Dr. Ivan Volkov (Skoltech) → 'R_FIELD_value'  measured=1.211307e-22  true=1.029000e-22  err=17.72%
+  Y2037  [DECAY          ]  Dr. Nia Okafor loses 'omega_fold_value' — knowledge erosion
+  Y2037  [DECAY          ]  Dr. Reza Ahmadi loses 'g_eff_equation' — knowledge erosion
+  Y2037  [REVOLUTION     ]  Bastion — outcome=progressive
+  Y2037  [DISCOVERY      ]  Dr. Nia Okafor (Howard_Univ) → 'resonance_structure'  measured=5.120750e+22  true=4.859086e+22  err=5.39%
+  Y2038  [DECAY          ]  Dr. Kwame Asante loses 'omega_fold_value' — knowledge erosion
+  Y2038  [DECAY          ]  Dr. Nia Okafor loses 'resonance_structure' — knowledge erosion
+  Y2038  [FAMINE         ]  Aurel — severity=0.73
+  Y2038  [MIGRATION      ]  Dr. Marcus Miller flees Aurel→Tharsis  (carries 4 components)
+  Y2038  [PEACE          ]  Bastion & Umbral — research resumes
+  Y2038  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'resonance_structure'  measured=4.625124e+22  true=4.859086e+22  err=4.81%
+  Y2038  [CONSENSUS ✓   ]  'resonance_structure' ACCEPTED by community  consensus_value=4.563386e+22  n_measurements=6
+  Y2038  [MIGRATION      ]  Dr. Marcus Miller  Aurel(MHM_Institute) → Tharsis(ESA)  crisis=plague  carries 4 components
+  Y2039  [DECAY          ]  Dr. Kwame Asante loses 'g_eff_equation' — knowledge erosion
+  Y2039  [WAR            ]  Bastion vs Tharsis — labs disrupted, funding cut to 60%
+  Y2039  [WAR CASUALTY   ]  Dr. Marcus Miller (Tharsis) killed — work lost
+  Y2039  [WAR CASUALTY   ]  Dr. Chen Wei (Bastion) killed — work lost
+  Y2039  [WAR CASUALTY   ]  Prof. Sarah Chen (Tharsis) killed — work lost
+  Y2040  [DECAY          ]  Dr. Kwame Asante loses 'decoupling_condition' — knowledge erosion
+  Y2040  [DECAY          ]  Dr. Reza Ahmadi loses 'static_lock_threshold' — knowledge erosion
+  Y2040  [REVOLUTION     ]  Aurel — outcome=reactionary
+  Y2040  [WAR            ]  Tharsis vs Umbral — labs disrupted, funding cut to 60%
+  Y2040  [WAR CASUALTY   ]  Dr. Amara Osei (Umbral) killed — work lost
+  Y2040  [PEACE          ]  Bastion & Umbral — research resumes
+  Y2041  [FAMINE         ]  Aurel — severity=0.64
+  Y2041  [REVOLUTION     ]  Aurel — outcome=uncertain
+  Y2041  [REVOLUTION     ]  Tharsis — outcome=progressive
+  Y2042  [PEACE          ]  Bastion & Tharsis — research resumes
+  Y2042  [PEACE          ]  Tharsis & Umbral — research resumes
+  Y2043  [ECON BOOM      ]  Umbral — funding surge x1.70
+  Y2043  [WAR            ]  Aurel vs Umbral — labs disrupted, funding cut to 60%
+  Y2044  [WAR DECAY      ]  Dr. Kwame Asante loses validated 'A_res_constraint' — war disruption
+  Y2044  [WAR DECAY      ]  Dr. Reza Ahmadi loses validated 'kappa_inv_formula' — war disruption
+  Y2044  [REVOLUTION     ]  Aurel — outcome=progressive
+  Y2044  [REVOLUTION     ]  Bastion — outcome=uncertain
+  Y2045  [MIGRATION      ]  Dr. Nia Okafor flees Aurel→Bastion  (carries 5 components)
+  Y2045  [REVOLUTION     ]  Aurel — outcome=uncertain
+  Y2045  [PEACE          ]  Bastion & Tharsis — research resumes
+  Y2045  [DISCOVERY      ]  Dr. Yuki Tanaka (CERN) → 'A_res_constraint'  measured=1.000000e+00  true=1.000000e+00  err=0.00%
+  Y2045  [RETRACTED ✗   ]  Dr. Reza Ahmadi's paper failed replication — RETRACTED
+  Y2045  [RETRACTED ✗   ]  Dr. Kwame Asante's paper failed replication — RETRACTED
+  Y2045  [RETRACTED ✗   ]  Dr. Fatima Al-Zahra's paper failed replication — RETRACTED
+  Y2045  [MIGRATION      ]  Dr. Nia Okafor  Aurel(Howard_Univ) → Bastion(Skoltech)  crisis=war  carries 5 components
+  Y2046  [FAMINE         ]  Tharsis — severity=0.56
+  Y2046  [PLAGUE         ]  Tharsis — mortality=25.2%  research crippled
+  Y2046  [PLAGUE         ]  Umbral — mortality=14.9%  research crippled
+  Y2046  [PEACE          ]  Aurel & Umbral — research resumes
+  Y2046  [THEORY SWITCH  ]  Dr. Fatima Al-Zahra abandons Static → adopts Resonant  (stubbornness=0.46)
+  Y2047  [MIGRATION      ]  Dr. Yuki Tanaka flees Tharsis→Bastion  (carries 5 components)
+  ... (363 more events)
+
+
+████████████████████████████████████████████████████████████████████████████████████████
+█          THREE-WORLD COMPARATIVE EXPERIMENT  —  MHM SEEDED THEORY EVOLUTION          █
+████████████████████████████████████████████████████████████████████████████████████████
+  Worlds:   Open Science, Suppression, Collapse
+  Duration: 150 years  |  Seed knowledge: fold_map  |  Start: 2026 CE
+
+────────────────────────────────────────────────────────────────────────────────────────
+  TABLE 1 — KNOWLEDGE COMPONENT CONSENSUS YEAR BY WORLD
+────────────────────────────────────────────────────────────────────────────────────────
+  Component                   Open Science    Suppression     Collapse        
+························································································
+  fold_map                    1868            1868            1868            
+  R_FIELD_value               2029            2029            2029            
+  kappa_inv_formula           2030            2032            2031            
+  resonance_structure         2035            2033            2038            
+  omega_fold_value            known(2031)     2037            2052            
+  A_res_constraint            2033            2036            2036            
+  decoupling_condition        2036            2041            2094            
+  g_eff_equation              known(2031)     2035            2052            
+  static_lock_threshold       known(2031)     SUPPRESSED      known(2033)     
+  full_resonant_eq            2036            2038            NEVER           
+  full_static_eq              known(2032)     SUPPRESSED      NEVER           
+  unified_synthesis           2037            2042            NEVER           
+
+  ── UNIFIED SYNTHESIS        2037            2042            NOT REACHED     
+────────────────────────────────────────────────────────────────────────────────────────
+  TABLE 2 — CIVILIZATION PRESSURE SUMMARY
+────────────────────────────────────────────────────────────────────────────────────────
+  Metric                      Open Science    Suppression     Collapse        
+························································································
+  Papers published            12              22              42              
+  Controversies               23              18              92              
+  Replications                0               0               0               
+  Retractions                 2               4               9               
+  Theory switches             3               5               5               
+  Institutions founded        0               0               0               
+  Institutions lost           0               0               0               
+  Scientist deaths            0               0               16              
+  Wars                        0               1               38              
+  Famines                     0               1               49              
+  Plagues                     0               0               35              
+  Revolutions                 0               3               120             
+  Knowledge diffused          4               6               1               
+  Scientist migrations        0               1               9               
+────────────────────────────────────────────────────────────────────────────────────────
+  TABLE 3 — BOTTLENECK ANALYSIS AND OUTCOME DIAGNOSIS
+────────────────────────────────────────────────────────────────────────────────────────
+  Diagnostic                  Open Science        Suppression         Collapse            
+························································································
+  Terminal outcome            SYNTHESIS           SYNTHESIS           INCOMPLETE          
+  Synthesis year              2037                2042                —                   
+  First blocked comp          —                   static_lock_threshold—                   
+  Longest-delayed comp        resonance_structure (+5yr)decoupling_condition (+5yr)decoupling_condition (+58yr)
+  Top institution             MHM_Institute       MHM_Institute       MHM_Institute       
+  Most active scientist       Dr. Marcus Miller   Dr. Kwame Asante    Dr. Kwame Asante    
+
+────────────────────────────────────────────────────────────────────────────────────────
+  SYNTHESIS SPEED COMPARISON
+────────────────────────────────────────────────────────────────────────────────────────
+  Open Science          2037  (11 years from 2026)
+  Suppression           2042  (16 years from 2026)  (+5 years vs Open Science)
+  Collapse              NOT REACHED  (8/12 components accepted)
+────────────────────────────────────────────────────────────────────────────────────────
+  TABLE 4 — SCIENTIST MIGRATION AND KNOWLEDGE RESCUE
+────────────────────────────────────────────────────────────────────────────────────────
+  World                 Migrations  Knowledge Events  Rescue narrative
+························································································
+  Open Science                   0                 —  no migrations
+  Suppression                    1                 7  7 components survived via migration
+    Y2035  Dr. Kwame Asante              Aurel → Bastion  (famine)  carried 7 components  [A_res_constraint, resonance_structure, omega_fold_value]
+  Collapse                       9                38  8 components survived via migration
+    Y2033  Dr. Reza Ahmadi               Tharsis → Aurel  (war)  carried 2 components  [R_FIELD_value, fold_map]
+    Y2038  Dr. Marcus Miller             Aurel → Tharsis  (plague)  carried 4 components  [kappa_inv_formula, R_FIELD_value, fold_map]
+    Y2045  Dr. Nia Okafor                Aurel → Bastion  (war)  carried 5 components  [kappa_inv_formula, A_res_constraint, resonance_structure]
+    Y2047  Dr. Yuki Tanaka               Tharsis → Bastion  (plague)  carried 5 components  [kappa_inv_formula, A_res_constraint, resonance_structure]
+    Y2047  Dr. Fatima Al-Zahra           Umbral → Bastion  (war)  carried 2 components  [resonance_structure, fold_map]
+    Y2059  Dr. Nia Okafor                Bastion → Aurel  (war)  carried 7 components  [kappa_inv_formula, A_res_constraint, resonance_structure]
+    Y2060  Dr. Fatima Al-Zahra           Bastion → Aurel  (war)  carried 5 components  [A_res_constraint, resonance_structure, R_FIELD_value]
+    Y2084  Dr. Kwame Asante              Aurel → Tharsis  (famine)  carried 4 components  [kappa_inv_formula, A_res_constraint, R_FIELD_value]
+    Y2137  Dr. Elena Vasquez             Umbral → Aurel  (war)  carried 4 components  [omega_fold_value, R_FIELD_value, g_eff_equation]
+
+────────────────────────────────────────────────────────────────────────────────────────
+  NARRATIVE VERDICT
+────────────────────────────────────────────────────────────────────────────────────────
+  [Open Science]
+    ✓ Unified synthesis reached in 11 years.
+    Longest delay: resonance_structure (+5yr)
+
+  [Suppression]
+    ✓ Unified synthesis reached in 16 years.
+    First blocked: static_lock_threshold
+    Longest delay: decoupling_condition (+5yr)
+    Migrations: 1  (7 components rescued)
+
+  [Collapse]
+    ✗ Synthesis NOT reached within 150 years.
+    Longest delay: decoupling_condition (+58yr)
+    Scientist deaths: 16
+    Migrations: 9  (8 components rescued)
+
+════════════════════════════════════════════════════════════════════════════════════════
+═                            END OF COMPARATIVE EXPERIMENT                             ═
+════════════════════════════════════════════════════════════════════════════════════════

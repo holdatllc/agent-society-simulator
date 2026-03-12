@@ -1,0 +1,109 @@
+████████████████████████████████████████████████████████████████████████████████████████
+█                      MHM KNOWLEDGE GRAPH — STRUCTURAL ANALYSIS                       █
+████████████████████████████████████████████████████████████████████████████████████████
+  Scientists:12  Precision:0.70  Discovery:0.70  Consensus:3  Theory mix:50%
+  Known at start: ['fold_map']   Target: unified_synthesis
+
+────────────────────────────────────────────────────────────────────────────────────────
+  CRITICAL PATH
+────────────────────────────────────────────────────────────────────────────────────────
+  Depth: 8 nodes   Min years: 11.8   Bottleneck: 'full_static_eq' (+2.1yr)   Parallelism: 1.4 avg nodes/wave
+
+    ⬤ R_FIELD_value                 depth=1  cumulative=  0.9yr  diff=0.20
+         │
+    ⬤ kappa_inv_formula             depth=2  cumulative=  1.8yr  diff=0.30
+         │
+    ⬤ resonance_structure           depth=3  cumulative=  3.5yr  diff=0.45
+         │
+    ⬤ A_res_constraint              depth=4  cumulative=  5.3yr  diff=0.50
+         │
+    ⬤ decoupling_condition          depth=5  cumulative=  6.4yr  diff=0.55
+         │
+    ⬤ static_lock_threshold         depth=6  cumulative=  8.2yr  diff=0.55
+         │
+    ⬤ full_static_eq                depth=7  cumulative= 10.3yr  diff=0.75 ◄ BOTTLENECK
+         │
+    ⬤ unified_synthesis             depth=8  cumulative= 11.8yr  diff=0.95
+────────────────────────────────────────────────────────────────────────────────────────
+  PARALLEL EXECUTION WAVES
+────────────────────────────────────────────────────────────────────────────────────────
+  Wave 1: [R_FIELD_value(CP)]
+  Wave 2: [kappa_inv_formula(CP)]
+  Wave 3: [resonance_structure(CP)]
+  Wave 4: [omega_fold_value(d=0.40),  g_eff_equation(d=0.45),  A_res_constraint(CP)]
+  Wave 5: [decoupling_condition(CP)]
+  Wave 6: [static_lock_threshold(CP),  full_resonant_eq(d=0.80)]
+  Wave 7: [full_static_eq(CP)]
+  Wave 8: [unified_synthesis(CP)]
+────────────────────────────────────────────────────────────────────────────────────────
+  TIME-TO-CONSENSUS  (years per component)
+────────────────────────────────────────────────────────────────────────────────────────
+  Component                     Depth   Cumul     Own   Diff  Fanout   Wave    CP
+························································································
+  fold_map                      [pre-known]
+  R_FIELD_value                     1     0.9     0.9   0.20       1      1   YES
+  kappa_inv_formula                 2     1.8     0.9   0.30       4      2   YES
+  resonance_structure               3     3.5     1.7   0.45       4      3   YES
+  omega_fold_value                  4     5.2     1.7   0.40       1      4      
+  A_res_constraint                  4     5.3     1.8   0.50       2      4   YES
+  decoupling_condition              5     6.4     1.1   0.55       3      5   YES
+  g_eff_equation                    4     4.5     1.0   0.45       2      4      
+  static_lock_threshold             6     8.2     1.8   0.55       1      6   YES
+  full_resonant_eq                  6     8.6     2.2   0.80       1      6      
+  full_static_eq                    7    10.3     2.1   0.75       1      7   YES
+  unified_synthesis                 8    11.8     1.5   0.95       0      8   YES
+────────────────────────────────────────────────────────────────────────────────────────
+  BOTTLENECK RANKING
+────────────────────────────────────────────────────────────────────────────────────────
+  #     Component                      Score  Save if removed    CP  Note
+························································································
+  1     resonance_structure            2.683          +0.4 yr   YES  on critical path
+  2     decoupling_condition           2.530          +0.3 yr   YES  on critical path
+  3     full_static_eq                 2.096          +0.8 yr   YES  ← #1 BOTTLENECK
+  4     kappa_inv_formula              1.605          +0.1 yr   YES  on critical path
+  5     unified_synthesis              1.290          +0.7 yr   YES  on critical path
+  6     static_lock_threshold          0.688          +0.5 yr   YES  on critical path
+  7     A_res_constraint               0.610          +0.4 yr   YES  on critical path
+  8     R_FIELD_value                  0.418          +0.1 yr   YES  on critical path
+────────────────────────────────────────────────────────────────────────────────────────
+  SENSITIVITY ANALYSIS  (years saved if difficulty → 0)
+────────────────────────────────────────────────────────────────────────────────────────
+  full_static_eq                █░░░░░░░░░░░░░░░░░░░  +0.8 yr saved  (diff=0.75  CP)
+  unified_synthesis             █░░░░░░░░░░░░░░░░░░░  +0.7 yr saved  (diff=0.95  CP)
+  static_lock_threshold         █░░░░░░░░░░░░░░░░░░░  +0.5 yr saved  (diff=0.55  CP)
+  A_res_constraint              ░░░░░░░░░░░░░░░░░░░░  +0.4 yr saved  (diff=0.50  CP)
+  resonance_structure           ░░░░░░░░░░░░░░░░░░░░  +0.4 yr saved  (diff=0.45  CP)
+  decoupling_condition          ░░░░░░░░░░░░░░░░░░░░  +0.3 yr saved  (diff=0.55  CP)
+  kappa_inv_formula             ░░░░░░░░░░░░░░░░░░░░  +0.1 yr saved  (diff=0.30  CP)
+  R_FIELD_value                 ░░░░░░░░░░░░░░░░░░░░  +0.1 yr saved  (diff=0.20  CP)
+────────────────────────────────────────────────────────────────────────────────────────
+  WHY THE 13–18 YEAR SYNTHESIS WINDOW
+────────────────────────────────────────────────────────────────────────────────────────
+  Theoretical floor:    11.8 yr  (baseline parameters)
+  Optimistic:           7.2 yr  (precision=0.90, disc=0.85, 80% theory alignment)
+  Pessimistic:          56.8 yr  (half scientists, precision=0.50, theory conflict)
+  Observed sim range:   13–18 yr  (seed=7, duration=150)
+
+  The window is set by 8 sequential steps that cannot be parallelized.
+  Bottleneck: 'full_static_eq' contributes 2.1 yr alone.
+  Consensus gate (3 measurements) adds ~3.5 yr overhead.
+  Doubling scientists would save ~4.1 yr.
+  Pre-solving 'full_static_eq' would save 0.8 yr.
+────────────────────────────────────────────────────────────────────────────────────────
+  DEPENDENCY GRAPH  (ASCII, by wave)
+────────────────────────────────────────────────────────────────────────────────────────
+  Wave 1  ◉ R_FIELD_value                 diff=0.20  ← (root)  [CP]
+  Wave 2  ◉ kappa_inv_formula             diff=0.30  ← [fold_map, R_FIELD_value]  [CP]
+  Wave 3  ◉ resonance_structure           diff=0.45  ← [fold_map, kappa_inv_formula]  [CP]
+  Wave 4  ○ omega_fold_value              diff=0.40  ← [resonance_structure]
+          ○ g_eff_equation                diff=0.45  ← [fold_map, resonance_structure]
+          ◉ A_res_constraint              diff=0.50  ← [kappa_inv_formula, resonance_structure]  [CP]
+  Wave 5  ◉ decoupling_condition          diff=0.55  ← [kappa_inv_formula, A_res_constraint]  [CP]
+  Wave 6  ◉ static_lock_threshold         diff=0.55  ← [kappa_inv_formula, decoupling_condition]  [CP]
+          ○ full_resonant_eq              diff=0.80  ← [resonance_structure, omega_fold_value, A_res_constraint, decoupling_condition, g_eff_equation]
+  Wave 7  ◉ full_static_eq                diff=0.75  ← [static_lock_threshold, decoupling_condition, g_eff_equation]  [CP]
+  Wave 8  ◉ unified_synthesis             diff=0.95  ← [full_resonant_eq, full_static_eq]  [CP]
+
+════════════════════════════════════════════════════════════════════════════════════════
+═                                   END OF ANALYSIS                                    ═
+════════════════════════════════════════════════════════════════════════════════════════
